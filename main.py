@@ -1,7 +1,7 @@
 import os
 import sys
 import json
-import request 
+import requests
 import argparse
 from concurrent.futures import ThreadPoolExecutor
 
